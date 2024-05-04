@@ -16,7 +16,7 @@ timezone:
 
 title: Janlor # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 淡泊明志，宁静致远 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,17 +29,17 @@ github:
   username: Janlor # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: janlor_lee # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Janlor
+  email: janlor@iCloud.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/janlor_lee # change to your twitter homepage
+    - https://github.com/janlor # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
